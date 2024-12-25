@@ -11,6 +11,3 @@ const conf={
 }
 
 export default conf
-// appwriteDataBaseId:String(import.meta.env.VITE_APPWRITE_DATABASE_ID),
-// appwriteCollectionId:String(import.meta.env.VITE_APPWRITE_URL_COLLECTION_ID),
-// appwriteBucketId:String(import.meta.env.VITE_APPWRITE_URL_BUCKET_ID)
